@@ -8,5 +8,3 @@ Al-Ilmu App adalah aplikasi belajar agama secara _online_ untuk membantu masyara
 - Fitur asesmen online (on progress, google classroom-like)
 
 Built by React-Native
-
-Link Download: https://bit.ly/Al-Ilmu-TimGIANTS
